@@ -31,7 +31,7 @@
         "@imput/libav.js-remux-cli": "^6.8.7",
         "@imput/version-info": "workspace:^",
         "@sveltejs/adapter-static": "^3.0.10",
-        "@sveltejs/kit": "^2.55.0",
+        "@sveltejs/kit": "^3.0.0",
         "@sveltejs/vite-plugin-svelte": "^6.2.1",
         "@tabler/icons-svelte": "3.6.0",
         "@types/fluent-ffmpeg": "^2.1.28",
